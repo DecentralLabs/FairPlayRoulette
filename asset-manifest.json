@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.317e45e9.chunk.css",
+    "main.js": "./static/js/main.7b4a1eb3.chunk.js",
+    "main.js.map": "./static/js/main.7b4a1eb3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8d6e6c54.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8d6e6c54.js.map",
+    "static/js/2.dae10217.chunk.js": "./static/js/2.dae10217.chunk.js",
+    "static/js/2.dae10217.chunk.js.map": "./static/js/2.dae10217.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c4396be97ba4b8199035e9844922315c.js": "./precache-manifest.c4396be97ba4b8199035e9844922315c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.317e45e9.chunk.css.map": "./static/css/main.317e45e9.chunk.css.map",
+    "static/media/avalanche.png": "./static/media/avalanche.e6e051de.png",
+    "static/media/dl_logo.jpg": "./static/media/dl_logo.d06d5b8f.jpg",
+    "static/media/App.css": "./static/media/green-soft.1acfecf9.jpg",
+    "static/media/piggy.jpg": "./static/media/piggy.d8eb300d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6e6c54.js",
+    "static/js/2.dae10217.chunk.js",
+    "static/css/main.317e45e9.chunk.css",
+    "static/js/main.7b4a1eb3.chunk.js"
+  ]
+}
